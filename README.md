@@ -24,7 +24,8 @@ What is Digital Literacy, Why it Matters, and
 How to be Digitally Literate.
 <br/><br>
 Link:
-
+https://canva.link/v7blsdw1csr0ntm
+<br/>
 
 Tasks Summary
 <br/><br>
