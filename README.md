@@ -16,8 +16,9 @@ This project was completed as part of the Digital Literacy course. It includes v
 <br/><br>
 
 Tasks Summary
-<br/>
+<br/><br>
 Task 1: Infographic
+<br/>
 Created a digital literacy infographic using Canva covering safe internet practices and useful tools.
 
 Task 2: Digital Portfolio
