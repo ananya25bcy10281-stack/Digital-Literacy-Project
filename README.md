@@ -11,6 +11,7 @@ Branch: B.Tech CSE
 Year: 1st Year
 <br/><br>
 Project Overview
+<br/>
 This project was completed as part of the Digital Literacy course. It includes various tasks that help in understanding digital tools, communication, and online safety.
 
 Tasks Summary
