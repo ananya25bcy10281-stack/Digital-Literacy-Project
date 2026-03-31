@@ -36,10 +36,18 @@ Prepared a case study and prevention checklist.
 Links
 Google Form Link: https://forms.gle/sgBBXHDM3PoXv42n8
 
+<br>
 Repository Structure
+<br/><br>
 task-1-presentation/
+<br/><br>
 task-2-portfolio/
+<br/><br>
 task-3-platforms/
+<br/><br>
 task-4-email-etiquette/
+<br/><br>
 task-5-cybercrime/
+<br/>< br>
 report/
+<br/>
