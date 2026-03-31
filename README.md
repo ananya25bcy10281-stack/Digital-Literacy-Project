@@ -14,6 +14,17 @@ Project Overview
 <br/><br>
 This project was completed as part of the Digital Literacy course. It includes various tasks that help in understanding digital tools, communication, and online safety.
 <br/><br>
+## Task 1 - Digital Literacy Awareness Infographic
+<br/><br>
+Module 1
+<br/><br>
+Created a one-page Digital Literacy Awareness Infographic
+using Canva. The infographic covers three topics:
+What is Digital Literacy, Why it Matters, and
+How to be Digitally Literate.
+<br/><br>
+Link:
+
 
 Tasks Summary
 <br/><br>
