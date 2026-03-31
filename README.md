@@ -11,10 +11,12 @@ Branch: B.Tech CSE
 Year: 1st Year
 <br/><br>
 Project Overview
-<br/>
+<br/><br>
 This project was completed as part of the Digital Literacy course. It includes various tasks that help in understanding digital tools, communication, and online safety.
+<br/><br>
 
 Tasks Summary
+<br/>
 Task 1: Infographic
 Created a digital literacy infographic using Canva covering safe internet practices and useful tools.
 
