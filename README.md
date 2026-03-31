@@ -1,10 +1,15 @@
 # Digital-Literacy-Project
 <br>
+Digital Literacy Project
+<br/><br>
 Name: Ananya Kesharwani
-<br/>
+<br/><br>
 Reg No: 25BCY10281
+<br/><br>
 Branch: B.Tech CSE
+<br/><br>
 Year: 1st Year
+<br/>
 Project Overview
 This project was completed as part of the Digital Literacy course. It includes various tasks that help in understanding digital tools, communication, and online safety.
 
